@@ -6,7 +6,7 @@ my java script code
 <title> variables </title>
 <script>
 var myVariable;
-myVariable = 40;
+myVariable = 50;
 document.write(myVariable);
 </script>
 </head>
