@@ -6,8 +6,11 @@ my java script code
 <title> variables </title>
 <script>
 var myVariable;
+var mySymbol;
 myVariable = 50;
-document.write(myVariable);
+mySymbol = 10;
+document.write(myVariable+mySymbol);
+
 </script>
 </head>
 <body>
